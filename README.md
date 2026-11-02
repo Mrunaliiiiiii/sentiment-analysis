@@ -2,7 +2,7 @@
 
 Classifies tweets as **positive** or **negative** using TF-IDF features and classic machine-learning models (Naive Bayes, Logistic Regression, Linear SVM), with a **Streamlit** web app for live predictions.
 
-> **Author:** `<Your Full Name>` · **Roll No:** `<Your Roll No>` · **Course:** BCA · **Project:** `<Project Title>`
+> **Author:** MRUNALI PRAMOD LAVANGARE · **Roll No:** 25060 · **Course:** BCA 2ND YEAR· **Project:** SENTIMENT ANALYSIS
 
 <!-- Add a screenshot of the Streamlit app here, e.g. ![App screenshot](images/app.png) -->
 
